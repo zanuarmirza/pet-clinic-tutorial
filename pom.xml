@@ -4,12 +4,10 @@
 
     <groupId>guru.springframework</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>pet-clinic-data</module>
         <module>pet-clinic-web</module>
     </modules>
-    <packaging>pom</packaging>
     <version>0.0.2-SNAPSHOT</version>
     <packaging>jar</packaging>
 
